@@ -1,4 +1,7 @@
-#v3
+#TRẦN HUY HOÀNG
+#K61 TỰ ĐỘNG HÓA
+#TRƯỜNG ĐẠI HỌC VINH
+
 import datetime
 from ultralytics import YOLO
 import cv2
